@@ -8,5 +8,9 @@ edition = "2021"
 name = "kmeans"
 path = "examples/kmeans.rs"
 
+[[example]]
+name = "genetic"
+path = "examples/genetic.rs"
+
 [dependencies]
 rand = "*"
