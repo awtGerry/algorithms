@@ -12,5 +12,9 @@ path = "examples/kmeans.rs"
 name = "genetic"
 path = "examples/genetic.rs"
 
+[[example]]
+name = "perceptron"
+path = "examples/perceptron.rs"
+
 [dependencies]
 rand = "*"
